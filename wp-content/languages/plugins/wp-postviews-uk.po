@@ -1,0 +1,275 @@
+# Translation of Plugins - WP-PostViews - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - WP-PostViews - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-06 16:18:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - WP-PostViews - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://lesterchan.net"
+msgstr "http://lesterchan.net"
+
+#. Author of the plugin
+msgid "Lester 'GaMerZ' Chan"
+msgstr "Lester 'GaMerZ' Chan"
+
+#. Description of the plugin
+msgid "Enables you to display how many times a post/page had been viewed."
+msgstr "Дозволяє відображати скільки разів запис/сторінка були переглянуті."
+
+#. Plugin URI of the plugin
+msgid "https://lesterchan.net/portfolio/programming/php/"
+msgstr "http://lesterchan.net/portfolio/programming/php/"
+
+#: wp-postviews.php:980
+msgid "* If you are not using any category statistics, you can ignore it."
+msgstr "* якщо ви не використовуєте статистику будь-якої категорії, можете ігнорувати."
+
+#: wp-postviews.php:977
+msgid "Separate mutiple categories with commas."
+msgstr "Відокремте категорії комами."
+
+#: wp-postviews.php:976
+msgid "Category IDs:"
+msgstr "ID Категорії:"
+
+#: wp-postviews.php:973
+msgid "<strong>0</strong> to disable."
+msgstr "<strong>0</strong> щоб не обмежувати."
+
+#: wp-postviews.php:972
+msgid "Maximum Post Title Length (Characters):"
+msgstr "Максимальна Довжина Заголовку Запису (У Символах)"
+
+#: wp-postviews.php:969
+msgid "No. Of Records To Show:"
+msgstr "Кількість Записів Для Відображення:"
+
+#: wp-postviews.php:962
+msgid "%s Only"
+msgstr "%s Тільки"
+
+#: wp-postviews.php:959
+msgid "All"
+msgstr "Всі"
+
+#: wp-postviews.php:957
+msgid "Include Views From:"
+msgstr "Включити Перегляди З:"
+
+#: wp-postviews.php:952
+msgid "Most Viewed By Category"
+msgstr "З Більшим Переглядом За Категорією"
+
+#: wp-postviews.php:951
+msgid "Most Viewed"
+msgstr "З Більшим Переглядом"
+
+#: wp-postviews.php:949
+msgid "Least Viewed By Category"
+msgstr "З Меншим Переглядом За Категорією"
+
+#: wp-postviews.php:948
+msgid "Least Viewed"
+msgstr "З Меншим Переглядом"
+
+#: wp-postviews.php:946
+msgid "Statistics Type:"
+msgstr "Тип Статистики:"
+
+#: wp-postviews.php:943
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: wp-postviews.php:882
+msgid "WP-PostViews views statistics"
+msgstr "WP-PostViews статистика переглядів"
+
+#: wp-postviews.php:831 wp-postviews.php:883 wp-postviews.php:931
+msgid "Views"
+msgstr "Перегляди"
+
+#: wp-postviews.php:762
+msgid "<strong>%s</strong> view was generated."
+msgid_plural "<strong>%s</strong> views were generated."
+msgstr[0] "<strong>%s</strong> перегляд був згенерований."
+msgstr[1] "<strong>%s</strong> перегляди було згенеровано."
+msgstr[2] "<strong>%s</strong> переглядів було згенеровано."
+
+#: wp-postviews.php:748 wp-postviews.php:750 wp-postviews.php:780
+msgid "%s Most Viewed Page"
+msgid_plural "%s Most Viewed Pages"
+msgstr[0] "%s Сторінка З Найбільшим Переглядом"
+msgstr[1] "%s Сторінки З Найбільшим Переглядом"
+msgstr[2] "%s Сторінок З Найбільшим Переглядом"
+
+#: wp-postviews.php:743 wp-postviews.php:745 wp-postviews.php:774
+msgid "%s Most Viewed Post"
+msgid_plural "%s Most Viewed Posts"
+msgstr[0] "%s Запис З Найбільшим Переглядом"
+msgstr[1] "%s Записи З Найбільшим Переглядом"
+msgstr[2] "%s Записів З Найбільшим Переглядом"
+
+#. Plugin Name of the plugin
+#: wp-postviews.php:730 wp-postviews.php:732 wp-postviews.php:760
+msgid "WP-PostViews"
+msgstr "WP-PostViews"
+
+#: wp-postviews.php:292 wp-postviews.php:354 wp-postviews.php:417
+#: wp-postviews.php:480 wp-postviews.php:542 wp-postviews.php:605
+msgid "N/A"
+msgstr "Невідомо"
+
+#: wp-postviews.php:43
+msgid "PostViews"
+msgstr "Перегляди Записів"
+
+#: postviews-options.php:205
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#: postviews-options.php:199
+msgid "Don't display on other pages"
+msgstr "Не відображати на інших сторінках"
+
+#: postviews-options.php:194
+msgid "Other Pages:"
+msgstr "Інші Сторінки:"
+
+#: postviews-options.php:189
+msgid "Don't display on search pages"
+msgstr "Не відображати на сторінках архіву"
+
+#: postviews-options.php:184
+msgid "Search Pages:"
+msgstr "Сторінки Пошуку:"
+
+#: postviews-options.php:179
+msgid "Don't display on archive pages"
+msgstr "Не відображати на сторінках архіву"
+
+#: postviews-options.php:174
+msgid "Archive Pages:"
+msgstr "Сторінки Архіву:"
+
+#: postviews-options.php:169
+msgid "Don't display on pages"
+msgstr "Не відображати на сторінках"
+
+#: postviews-options.php:164
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#: postviews-options.php:159
+msgid "Don't display on single posts"
+msgstr "Не відображати на одиничних записах"
+
+#: postviews-options.php:154
+msgid "Single Posts:"
+msgstr "Одиничні Записи:"
+
+#: postviews-options.php:149
+msgid "Don't display on home page"
+msgstr "Не відображати на домашній сторінці"
+
+#: postviews-options.php:148 postviews-options.php:158
+#: postviews-options.php:168 postviews-options.php:178
+#: postviews-options.php:188 postviews-options.php:198
+msgid "Display to registered users only"
+msgstr "Відображати лише для зареєстрованих користувачів"
+
+#: postviews-options.php:147 postviews-options.php:157
+#: postviews-options.php:167 postviews-options.php:177
+#: postviews-options.php:187 postviews-options.php:197
+msgid "Display to everyone"
+msgstr "Відображати для всіх"
+
+#: postviews-options.php:144
+msgid "Home Page:"
+msgstr "Домашня Сторінка:"
+
+#: postviews-options.php:141
+msgid "These options specify where the view counts should be displayed and to whom. \tBy default view counts will be displayed to all visitors. Note that the theme files must contain a call to <code>the_views()</code> in order for any view count to be displayed."
+msgstr "Ці опції зазначають де має відображатися лічильник та саме для кого. За замовчуванням лічильник переглядів буде відображатися для всіх відвідувачів. Зверніть увагу що файли теми повинні мати виклик до <code>the_views()</code> щоб хоча б будь-який лічильник переглядів був відображений."
+
+#: postviews-options.php:140
+msgid "Display Options"
+msgstr "Відобразити Опції"
+
+#: postviews-options.php:120
+msgid "Most Viewed Template:"
+msgstr "Шаблон Найбільших Переглядів:"
+
+#: postviews-options.php:112 postviews-options.php:133
+msgid "Restore Default Template"
+msgstr "Повернути Шаблон За Замовчуванням"
+
+#: postviews-options.php:109 postviews-options.php:121
+msgid "Allowed Variables:"
+msgstr "Дозволені Змінні:"
+
+#: postviews-options.php:108
+msgid "Views Template:"
+msgstr "Шаблон Переглядів:"
+
+#: postviews-options.php:99
+msgid "You have caching enabled for your WordPress installation, by default WP-PostViews will use AJAX to update the view count. However in some cases, you might not want it."
+msgstr "Ваша WordPress інсталяція має увімкнуте кешування, за замовчуванням WP-PostViews буде використовувати AJAX для того щоб оновлювати лічильник переглядів. Однак у деяких випадках вам це може не підходити."
+
+#: postviews-options.php:92
+msgid "Use AJAX To Update Views:"
+msgstr "Використовувати AJAX Для Оновлення Переглядів:"
+
+#: postviews-options.php:86 postviews-options.php:96
+msgid "Yes"
+msgstr "Так"
+
+#: postviews-options.php:85 postviews-options.php:95
+msgid "No"
+msgstr "Ні"
+
+#: postviews-options.php:82
+msgid "Exclude Bot Views:"
+msgstr "Виключити Перегляди Ботами:"
+
+#: postviews-options.php:77
+msgid "Registered Users Only"
+msgstr "Лише Зареєстровані Користувачі"
+
+#: postviews-options.php:76
+msgid "Guests Only"
+msgstr "Лише Гості"
+
+#: postviews-options.php:75
+msgid "Everyone"
+msgstr "Кожен"
+
+#: postviews-options.php:72
+msgid "Count Views From:"
+msgstr "Рахувати Перегляди Від:"
+
+#: postviews-options.php:58 wp-postviews.php:1011
+msgid "views"
+msgstr "перегляди"
+
+#: postviews-options.php:55 wp-postviews.php:1010
+msgid "%VIEW_COUNT% views"
+msgstr "%VIEW_COUNT% переглядів"
+
+#: postviews-options.php:38
+msgid "No Post Views Option Updated"
+msgstr "Опції Перегляду Записів Не Оновлені"
+
+#: postviews-options.php:33
+msgid "Updated"
+msgstr "Оновлено"
+
+#: postviews-options.php:28 postviews-options.php:69
+msgid "Post Views Options"
+msgstr "Опції Переглядів Запису"
